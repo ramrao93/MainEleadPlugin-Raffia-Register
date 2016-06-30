@@ -2,7 +2,7 @@
 
 /*** @package BuilderUX
 
- * @version 1
+ * @version 1.1
 
 Plugin Name: BuilderUX
 
