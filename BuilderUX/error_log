@@ -1,0 +1,131 @@
+[24-Jun-2015 22:04:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/aviurba/public_html/_dev/wp-content/plugins/BuilderUX/elead.php on line 121
+[24-Jun-2015 22:05:53 America/Chicago] PHP Fatal error:  SoapClient::SoapClient(): 'location' and 'uri' options are required in nonWSDL mode in /home/aviurba/public_html/_dev/wp-content/plugins/BuilderUX/elead.php on line 8
+[24-Jun-2015 22:05:53 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [Client] SoapClient::SoapClient(): 'location' and 'uri' options are required in nonWSDL mode in /home/aviurba/public_html/_dev/wp-content/plugins/BuilderUX/elead.php:8
+Stack trace:
+#0 /home/aviurba/public_html/_dev/wp-content/plugins/BuilderUX/elead.php(8): SoapClient->SoapClient(NULL)
+#1 {main}
+  thrown in /home/aviurba/public_html/_dev/wp-content/plugins/BuilderUX/elead.php on line 8
+[21-Oct-2015 19:56:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[21-Oct-2015 19:56:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[23-Oct-2015 01:29:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[23-Oct-2015 01:29:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[23-Oct-2015 10:00:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[23-Oct-2015 10:00:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[23-Oct-2015 22:07:48 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://ssnet.homesbyavi.com/ssnet/svceleads/eleads.asmx?wsdl' : Start tag expected, '<' not found
+ in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 40
+[23-Oct-2015 22:07:48 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://ssnet.homesbyavi.com/ssnet/svceleads/eleads.asmx?wsdl' : Start tag expected, '<' not found
+ in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:40
+Stack trace:
+#0 /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php(40): SoapClient->SoapClient('https://ssnet.h...')
+#1 {main}
+  thrown in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 40
+[24-Oct-2015 08:10:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[24-Oct-2015 08:10:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[24-Oct-2015 09:02:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[24-Oct-2015 09:02:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[24-Oct-2015 09:20:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[24-Oct-2015 09:20:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[24-Oct-2015 10:29:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[24-Oct-2015 10:29:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[25-Oct-2015 07:40:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[25-Oct-2015 07:40:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[25-Oct-2015 09:45:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[25-Oct-2015 09:45:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[25-Oct-2015 15:22:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[25-Oct-2015 15:22:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[25-Oct-2015 20:10:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[25-Oct-2015 20:10:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[26-Oct-2015 16:03:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[26-Oct-2015 16:03:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[26-Oct-2015 21:31:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[26-Oct-2015 21:31:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[27-Oct-2015 00:30:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[27-Oct-2015 00:30:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[27-Oct-2015 01:57:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 100
+[27-Oct-2015 01:57:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:100) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 172
+[27-Oct-2015 13:39:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 119
+[27-Oct-2015 13:39:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:119) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 191
+[27-Oct-2015 13:42:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 119
+[27-Oct-2015 13:42:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:119) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 191
+[27-Oct-2015 13:44:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:44:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:45:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:47:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:47:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:49:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:49:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:50:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:50:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:51:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:51:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:55:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:55:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:57:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[27-Oct-2015 13:57:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php:120) in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 195
+[27-Oct-2015 13:59:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[29-Oct-2015 01:30:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[29-Oct-2015 12:00:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[29-Oct-2015 12:28:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[04-Nov-2015 18:03:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[08-Nov-2015 08:48:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[10-Nov-2015 13:46:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[21-Nov-2015 11:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[24-Nov-2015 17:55:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[02-Dec-2015 22:36:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[03-Dec-2015 22:58:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[04-Dec-2015 11:39:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[14-Dec-2015 14:27:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/aviurba/public_html/drive/plugins/BuilderUX/elead.php on line 120
+[23-Jun-2016 16:51:41 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Eleads\42544.4108753588.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[23-Jun-2016 16:55:06 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Eleads\42544.413255463.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[24-Jun-2016 17:49:06 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Eleads\42545.4507467477.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[24-Jun-2016 17:52:23 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Eleads\42545.453029375.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[24-Jun-2016 17:56:56 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Sandbox\Eleads\42545.4561930903.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[24-Jun-2016 18:12:06 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Sandbox\Eleads\42545.4667157523.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[24-Jun-2016 18:12:28 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Sandbox\Eleads\42545.4669765278.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[25-Jun-2016 05:06:30 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Sandbox\Eleads\42545.9211693981.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113
+[25-Jun-2016 05:31:30 UTC] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> Access to the path 'E:\FTP\users\WCI\Sandbox\Eleads\42545.9385195139.xml' is denied. in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php:113
+Stack trace:
+#0 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->__call('SubmitLead', Array)
+#1 /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php(113): SoapClient->SubmitLead(Array)
+#2 {main}
+  thrown in /home/riconllc/public_html/eleadplugin.com/wci/wp-content/plugins/BuilderUX/elead.php on line 113

@@ -1,0 +1,2770 @@
+GitHub Plugin URI: ramrao93/github-updater
+GitHub Plugin URI: https://github.com/ramrao93/MainEleadPlugin-Raffia-Register
+
+#builder-contact-form{
+
+color:#000;	
+
+}
+
+#builder-contact-form .text-center {
+
+ text-align:center;
+
+}
+
+
+
+.contact-form ul {
+
+	list-style-type:none!important;
+
+}
+
+#builder-contact-form .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success {
+
+  color: #fff;
+
+  background-color: #47a447;
+
+  border-color: #398439;
+
+}
+
+#builder-contact-form .btn-success {
+
+  color: #fff;
+
+  background-color: #5cb85c;
+
+  border-color: #4cae4c;
+
+}
+
+#builder-contact-form .btn:hover, .btn:focus {
+
+  color: #333;
+
+  text-decoration: none;
+
+}
+
+#builder-contact-form .btn {
+
+  display: inline-block;
+
+  padding: 6px 12px;
+
+  margin-bottom: 0;
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  line-height: 1.428571429;
+
+  text-align: center;
+
+  white-space: nowrap;
+
+  vertical-align: middle;
+
+  cursor: pointer;
+
+  background-image: none;
+
+  border: 1px solid transparent;
+
+  border-radius: 4px;
+
+  -webkit-user-select: none;
+
+  -moz-user-select: none;
+
+  -ms-user-select: none;
+
+  -o-user-select: none;
+
+  user-select: none;
+
+  width:auto;
+
+}
+
+#builder-contact-form *, *:before, *:after {
+
+  box-sizing: border-box;
+
+}
+
+#builder-contact-form  .form-control {
+
+  display: block;
+
+  width: 100%;
+
+  height: 34px;
+
+  padding: 6px 12px;
+
+  font-size: 14px;
+
+  line-height: 1.428571429;
+
+  color: #555555;
+
+  vertical-align: middle;
+
+  background-color: #ffffff;
+
+  background-image: none;
+
+  border:none;
+
+  border-bottom:1px solid #555;
+
+}
+
+#builder-contact-form .form-control:focus {
+
+  /*border-color: #66afe9;
+
+  outline: 0;
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);*/
+
+}
+
+#builder-contact-form .form-control:-moz-placeholder {
+
+  color: #999999;
+
+}
+
+
+
+#builder-contact-form .form-control::-moz-placeholder {
+
+  color: #999999;
+
+ opacity: 1;
+
+}
+
+#builder-contact-form .form-control:-ms-input-placeholder {
+
+  color: #999999;
+
+}
+
+#builder-contact-form .form-control::-webkit-input-placeholder {
+
+  color: #999999;
+
+}
+
+
+
+#builder-contact-form .form-control[disabled],
+
+
+
+.form-control[readonly],
+
+
+
+fieldset[disabled] .form-control {
+
+  cursor: not-allowed;
+
+  background-color: #eeeeee;
+
+}
+
+#builder-contact-form textarea.form-control {
+
+  height: auto;
+
+}
+
+
+
+#builder-contact-form .form-group {
+
+  margin-bottom: 15px;
+
+}
+
+
+
+#builder-contact-form .radio,
+
+.checkbox {
+
+  display: block;
+
+  min-height: 20px;
+
+  padding-left: 20px;
+
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+
+  vertical-align: middle;
+
+}
+
+
+
+#builder-contact-form .radio label,
+
+.checkbox label {
+
+  display: inline;
+
+  margin-bottom: 0;
+
+  font-weight: normal;
+
+  cursor: pointer;
+
+}
+
+
+
+#builder-contact-form .radio input[type="radio"],
+
+.radio-inline input[type="radio"],
+
+.checkbox input[type="checkbox"],
+
+.checkbox-inline input[type="checkbox"] {
+
+
+
+  float: left;
+
+  margin-left: -20px;
+
+}
+
+
+
+#builder-contact-form .radio + .radio,
+
+.checkbox + .checkbox {
+
+  margin-top: -5px;
+
+}
+
+
+
+#builder-contact-form .radio-inline,
+
+.checkbox-inline {
+
+  display: inline-block;
+
+  padding-left: 20px;
+
+  margin-bottom: 0;
+
+  font-weight: normal;
+
+  vertical-align: middle;
+
+  cursor: pointer;
+
+
+
+}
+
+
+
+#builder-contact-form .radio-inline + .radio-inline,
+
+
+
+.checkbox-inline + .checkbox-inline {
+
+
+
+  margin-top: 0;
+
+  margin-left: 10px;
+
+}
+
+
+
+#builder-contact-form input[type="radio"][disabled],
+
+
+
+input[type="checkbox"][disabled],
+
+
+
+.radio[disabled],
+
+
+
+.radio-inline[disabled],
+
+
+
+.checkbox[disabled],
+
+
+
+.checkbox-inline[disabled],
+
+
+
+fieldset[disabled] input[type="radio"],
+
+
+
+fieldset[disabled] input[type="checkbox"],
+
+
+
+fieldset[disabled] .radio,
+
+
+
+fieldset[disabled] .radio-inline,
+
+
+
+fieldset[disabled] .checkbox,
+
+
+
+fieldset[disabled] .checkbox-inline {
+
+
+
+  cursor: not-allowed;
+
+
+
+}
+
+
+
+#builder-contact-form .input-sm {
+
+
+
+
+
+  height: 30px;
+
+
+
+
+
+
+
+  padding: 5px 10px;
+
+
+
+
+
+
+
+  font-size: 12px;
+
+
+
+
+
+
+
+  line-height: 1.5;
+
+
+
+
+
+
+
+  border-radius: 3px;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form select.input-sm {
+
+
+
+
+
+
+
+  height: 30px;
+
+
+
+
+
+
+
+  line-height: 30px;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form textarea.input-sm {
+
+
+
+
+
+
+
+  height: auto;
+
+
+
+
+
+
+
+}
+
+
+
+.input-lg {
+
+
+
+
+
+
+
+  height: 46px;
+
+
+
+
+
+
+
+  padding: 10px 16px;
+
+
+
+
+
+
+
+  font-size: 18px;
+
+
+
+
+
+
+
+  line-height: 1.33;
+
+
+
+
+
+
+
+  border-radius: 6px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form select.input-lg {
+
+
+
+
+
+
+
+  height: 46px;
+
+
+
+
+
+
+
+  line-height: 46px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form textarea.input-lg {
+
+
+
+
+
+
+
+  height: auto;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-warning .help-block,
+
+
+
+
+
+
+
+.has-warning .control-label,
+
+
+
+
+
+
+
+.has-warning .radio,
+
+
+
+
+
+
+
+.has-warning .checkbox,
+
+
+
+
+
+
+
+.has-warning .radio-inline,
+
+
+
+
+
+
+
+.has-warning .checkbox-inline {
+
+
+
+
+
+
+
+  color: #8a6d3b;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-warning .form-control {
+
+
+
+
+
+
+
+  border-color: #8a6d3b;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-warning .form-control:focus {
+
+
+
+
+
+
+
+  border-color: #66512c;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b;
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-warning .input-group-addon {
+
+
+
+
+
+
+
+  color: #8a6d3b;
+
+
+
+
+
+
+
+  background-color: #fcf8e3;
+
+
+
+
+
+
+
+  border-color: #8a6d3b;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-error .help-block,
+
+
+
+
+
+
+
+.has-error .control-label,
+
+
+
+
+
+
+
+.has-error .radio,
+
+
+
+
+
+
+
+.has-error .checkbox,
+
+
+
+
+
+
+
+.has-error .radio-inline,
+
+
+
+
+
+
+
+.has-error .checkbox-inline {
+
+
+
+
+
+
+
+  color: #a94442;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-error .form-control {
+
+
+
+
+
+
+
+  border-color: #a94442;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-error .form-control:focus {
+
+
+
+
+
+
+
+  border-color: #843534;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483;
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-error .input-group-addon {
+
+
+
+
+
+
+
+  color: #a94442;
+
+
+
+
+
+
+
+  background-color: #f2dede;
+
+
+
+
+
+
+
+  border-color: #a94442;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-success .help-block,
+
+
+
+
+
+
+
+.has-success .control-label,
+
+
+
+
+
+
+
+.has-success .radio,
+
+
+
+
+
+
+
+.has-success .checkbox,
+
+
+
+
+
+
+
+.has-success .radio-inline,
+
+
+
+
+
+
+
+.has-success .checkbox-inline {
+
+
+
+
+
+
+
+  color: #3c763d;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-success .form-control {
+
+
+
+
+
+
+
+  border-color: #3c763d;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-success .form-control:focus {
+
+
+
+
+
+
+
+  border-color: #2b542c;
+
+
+
+
+
+
+
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168;
+
+
+
+
+
+
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .has-success .input-group-addon {
+
+
+
+
+
+
+
+  color: #3c763d;
+
+
+
+
+
+
+
+  background-color: #dff0d8;
+
+
+
+
+
+
+
+  border-color: #3c763d;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .form-control-static {
+
+
+
+
+
+
+
+  margin-bottom: 0;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .help-block {
+
+
+
+
+
+
+
+  display: block;
+
+
+
+
+
+
+
+  margin-top: 5px;
+
+
+
+
+
+
+
+  margin-bottom: 10px;
+
+
+
+
+
+
+
+  color: #737373;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .form-group {
+
+
+
+
+
+
+
+    margin-bottom: 15px;
+
+
+
+
+
+
+
+    vertical-align: middle;
+
+
+
+
+
+
+
+    padding-right: 10px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form label {
+
+
+
+
+
+
+
+  /*display: inline-block;*/
+
+
+
+
+
+
+
+  max-width: 100%;
+
+
+
+
+
+
+
+  margin-bottom: 5px;
+
+
+
+
+
+
+
+  font-weight: bold;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .col-md-1 {
+
+
+
+
+
+
+
+  width: 8.333333333333332%;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .col-md-3 {
+
+
+
+
+
+
+
+    width: 25%;
+
+
+
+
+
+
+
+     float:left;
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+#builder-contact-form  .col-md-2 {
+
+
+
+
+
+
+
+    width: 16.666666666666664%;
+
+
+
+
+
+
+
+     float:left;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#builder-contact-form .col-md-5 {
+
+
+
+
+
+
+
+    width: 41.66666666666667%;
+
+
+
+
+
+
+
+     float:left;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #builder-contact-form .col-md-4 {
+
+
+
+
+
+
+
+    width: 33.33333333333333%;
+
+
+
+
+
+
+
+     float:left;
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+#builder-contact-form .col-md-7 {
+
+
+
+
+
+
+
+  width: 58.333333333333336%;
+
+
+
+
+
+
+
+   float:left;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .col-md-6 {
+
+
+
+
+
+
+
+  width : 50%;
+
+
+
+
+
+
+
+  float:left;
+
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+
+#builder-contact-form .col-md-12 {
+
+
+
+
+
+
+
+  width: 100%;
+
+
+
+
+
+
+
+  float: left;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+
+
+
+
+
+
+
+  position: relative;
+
+
+
+
+
+
+
+  min-height: 1px;
+
+
+
+
+
+
+
+  padding-right: 1px;
+
+
+
+
+
+
+
+  padding-left: 10px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .row::after {
+
+
+
+
+
+
+
+  clear :both;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .row::before, .row::after {
+
+
+
+
+
+
+
+  display: table;
+
+
+
+
+
+
+
+  content: " ";
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .row {
+
+
+
+
+
+
+
+  margin-right: -15px;
+
+
+
+
+
+
+
+  margin-left: -15px;
+
+
+
+
+
+
+
+  padding: 20px 0;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .sr-only {
+
+
+
+
+
+
+
+  position: absolute;
+
+
+
+
+
+
+
+  width: 1px;
+
+
+
+
+
+
+
+  height: 1px;
+
+
+
+
+
+
+
+  padding: 0;
+
+
+
+
+
+
+
+  margin: -1px;`
+
+
+
+
+
+
+
+  overflow: hidden;
+
+
+
+
+
+
+
+  clip: rect(0,0,0,0);
+
+
+
+
+
+
+
+  border: 0;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form input[type=email] {
+
+
+
+
+
+
+
+   cursor: text !important;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form input[type=email]:focus {
+
+
+
+
+
+
+
+   color:#000 !important;
+
+
+
+
+
+
+
+   background-color: #fff;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .text-right {
+
+
+
+
+
+
+
+ /* float :right;*/
+
+
+
+
+
+
+
+  float :left; 
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .hr {
+
+
+
+
+
+
+
+  margin-top: 20px;
+
+
+
+
+
+
+
+  margin-bottom: 20px;
+
+
+
+
+
+
+
+  border: 0;
+
+
+
+
+
+
+
+  border-top: 1px solid #eeeeee;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form button,
+
+
+
+
+
+
+
+input,
+
+
+
+
+
+
+
+select,
+
+
+
+
+
+
+
+textarea {
+
+
+
+
+
+
+
+  margin: 0;
+
+
+
+
+
+
+
+  font-family: inherit;
+
+
+
+
+
+
+
+  font-size: 100%;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form button,
+
+
+
+
+
+
+
+input {
+
+
+
+
+
+
+
+  line-height: normal;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form button,
+
+
+
+
+
+
+
+select {
+
+
+
+
+
+
+
+  text-transform: none;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form select.input-sm {
+
+
+
+
+
+
+
+  height: 30px;
+
+
+
+
+
+
+
+  line-height: 30px;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form select.input-lg {
+
+
+
+
+
+
+
+  height: 46px;
+
+
+
+
+
+
+
+  line-height: 46px;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form 
+
+
+
+
+
+
+
+select.input-group-lg > .form-control,
+
+
+
+
+
+
+
+select.input-group-lg > .input-group-addon,
+
+
+
+
+
+
+
+select.input-group-lg > .input-group-btn > .btn {
+
+
+
+
+
+
+
+  height: 46px;
+
+
+
+
+
+
+
+  line-height: 46px;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label {
+
+
+
+
+
+
+
+  display: inline;
+
+
+
+
+
+
+
+  padding: .2em .6em .3em;
+
+
+
+
+
+
+
+  font-size: 75%;
+
+
+
+
+
+
+
+  font-weight: bold;
+
+
+
+
+
+
+
+  line-height: 1;
+
+
+
+
+
+
+
+  color: #ffffff;
+
+
+
+
+
+
+
+  text-align: center;
+
+
+
+
+
+
+
+  white-space: nowrap;
+
+
+
+
+
+
+
+  vertical-align: baseline;
+
+
+
+
+
+
+
+  border-radius: .25em;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label[href]:hover,
+
+
+
+
+
+
+
+.label[href]:focus {
+
+
+
+
+
+
+
+  color: #ffffff;
+
+
+
+
+
+
+
+  text-decoration: none;
+
+
+
+
+
+
+
+  cursor: pointer;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label:empty {
+
+
+
+
+
+
+
+  display: none;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .btn .label {
+
+
+
+
+
+
+
+  position: relative;
+
+
+
+
+
+
+
+  top: -1px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .label-default {
+
+
+
+
+
+
+
+  background-color: #999999;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-default[href]:hover,
+
+
+
+
+
+
+
+.label-default[href]:focus {
+
+
+
+
+
+
+
+  background-color: #808080;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-primary {
+
+
+
+
+
+
+
+  background-color: #428bca;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-primary[href]:hover,
+
+
+
+
+
+
+
+.label-primary[href]:focus {
+
+
+
+
+
+
+
+  background-color: #3071a9;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-success {
+
+
+
+
+
+
+
+  background-color: #5cb85c;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-success[href]:hover,
+
+
+
+
+
+
+
+.label-success[href]:focus {
+
+
+
+
+
+
+
+  background-color: #449d44;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+#builder-contact-form .label-info {
+
+
+
+
+
+
+
+  background-color: #5bc0de;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-info[href]:hover,
+
+
+
+
+
+
+
+.label-info[href]:focus {
+
+
+
+
+
+
+
+  background-color: #31b0d5;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-warning {
+
+
+
+
+
+
+
+  background-color: #f0ad4e;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-warning[href]:hover,
+
+
+
+
+
+
+
+.label-warning[href]:focus {
+
+
+
+
+
+
+
+  background-color: #ec971f;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-danger {
+
+
+
+
+
+
+
+  background-color: #d9534f;
+
+
+
+
+
+
+
+}
+
+
+
+#builder-contact-form .label-danger[href]:hover,
+
+
+
+
+
+
+
+.label-danger[href]:focus {
+
+
+
+
+
+
+
+  background-color: #c9302c;
+
+
+
+
+
+
+
+}
+
+
+
+.input-select
+
+
+
+{
+
+
+
+  padding-left:0px;	
+
+
+
+}
+
+
+
+.ui-dialog .ui-dialog-title {
+
+
+
+	 font-size:14px!important;
+
+
+
+}
